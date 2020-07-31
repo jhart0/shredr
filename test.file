@@ -1,0 +1,15 @@
+This Text before the delimiter should be discarded
+
+___file1___
+
+content line 1 file 1
+content line 2 file 1
+
+
+___file2___
+
+content line 1 file 3
+
+content line 2 file 2
+content line 3 file 2
+content line 4 file 2
